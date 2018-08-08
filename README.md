@@ -1,2 +1,2 @@
 # RSA Cryptosystem
-A small program to simulate the RSA Cryptosystem.
+A small program thats simulates the RSA Cryptosystem.
